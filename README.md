@@ -95,22 +95,22 @@
 
 ## 📌 Domains I’m Exploring
 
-- 🤖 Deep Learning (LLMs, Transformers)
-- 🔧 High-performance Backend Systems
-- 📈 Data Science & Visualizations
-- ⚡ Building AI-integrated Web Apps
-- ☁️ Scalable Cloud Architectures (AWS, Firebase)
+ Advanced AI & Data Engineering — Working with LLMs, Transformer models, generative pipelines, and dynamic visualization layers  
+⚡ AI-Powered Web Experiences — Seamless ML integration into full stack apps  
 
 ---
 
-## 🛠 Favorite Tools
+## 🧰 Tools I Rely On
 
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
+
 
 ---
 
