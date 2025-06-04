@@ -93,7 +93,6 @@
 
 ---
 
-## 💥 GitHub Pulse
 
 ## 💥 GitHub Pulse
 
