@@ -124,10 +124,8 @@
   <img src="https://img.shields.io/badge/AI-FF6F61?style=flat&logo=artificial-intelligence&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=tensorflow&logoColor=white" height="18" />
 
 - 📊 Creating insightful data visualizations and dashboards with **SQL, Python, Power BI & Tableau**  
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="18" /> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="18" /> 
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black" height="18" /> 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="18" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black" height="18" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="18" />
+
 
 
 ---
