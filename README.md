@@ -95,16 +95,11 @@
 
 ## 📌 Domains I’m Exploring
 
-<p align="center" style="font-size:18px; line-height:1.6; max-width:600px;">
-
-<span>🤖 <b>Advanced AI & Data Engineering</b><br/>
-Working with LLMs, Transformer models, generative pipelines, and dynamic visualization layers</span><br/>
-
-<span>⚡ <b>AI-Powered Web Experiences</b><br/>
-Seamless ML integration into full stack apps</span>
-
+<p align="center" style="font-size:1.1em; line-height:1.6em;">
+  <b>🤖 Advanced AI & Data Engineering</b> — Working with LLMs, Transformer models, generative pipelines, and dynamic visualization layers  
+  <br/>
+  <b>⚡ AI-Powered Web Experiences</b> — Seamless ML integration into full stack apps  
 </p>
-
 
 ---
 
@@ -119,6 +114,18 @@ Seamless ML integration into full stack apps</span>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
+---
+
+## 🌍 Open to Collaborate On
+
+- 🚀 Building robust **MERN-stack** applications that drive real-world impact  
+  <img src="https://img.shields.io/badge/MERN-006400?style=flat&logo=mern&logoColor=white" height="18" />  
+
+- 🤖 Developing cutting-edge **AI/ML** solutions for meaningful challenges  
+  <img src="https://img.shields.io/badge/AI-FF6F61?style=flat&logo=artificial-intelligence&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=tensorflow&logoColor=white" height="18" />
+
+- 📊 Creating insightful data visualizations and dashboards with **SQL & Python**  
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="18" />
 
 ---
 
