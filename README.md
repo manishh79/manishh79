@@ -95,10 +95,16 @@
 
 ## 📌 Domains I’m Exploring
 
-<p align="center" style="font-size:1.1em; line-height:1.6em;">
-  <b>🤖 Advanced AI & Data Engineering</b> — Working with LLMs, Transformer models, generative pipelines, and dynamic visualization layers  <br/>
-  <b>⚡ AI-Powered Web Experiences</b> — Seamless ML integration into full stack apps  
-</p>
+<div align="center" style="font-size:1.1em; line-height:1.6em; max-width:600px; margin:auto; padding:15px; border-radius:12px; background: #f0f6fc; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+
+<p><span style="font-size:1.5em;">🤖</span> <strong>Advanced AI & Data Engineering</strong><br/>
+<em>Working with LLMs, Transformer models, generative pipelines, and dynamic visualization layers</em></p>
+
+<p><span style="font-size:1.5em;">⚡</span> <strong>AI-Powered Web Experiences</strong><br/>
+<em>Seamless ML integration into full stack apps</em></p>
+
+</div>
+
 
 ---
 
