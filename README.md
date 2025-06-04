@@ -130,6 +130,22 @@
 
 ---
 
+## 📬 Let's Connect
+
+<div align="left">
+  <a href="mailto:manish27992@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/manish-kumar-95775126a/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://github.com/manishh79" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+</div>
+
+---
+
 ## 💥 GitHub Pulse
 
 <div align="center">
@@ -145,18 +161,6 @@
 
 ---
 
-## 📬 Let's Connect
 
-<div align="left">
-  <a href="mailto:manish27992@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/in/manish-kumar-95775126a/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://github.com/manishh79" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</div>
 
 
