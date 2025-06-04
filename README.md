@@ -1,6 +1,6 @@
 # Hey there! I'm Manish 👨‍💻
 
-🎓 Computer Science student at Indian Institute of Information Technology Bhagalpur, India  
+🎓 Computer Science Undergrad at Indian Institute of Information Technology Bhagalpur, India  
 💡 Crafting robust solutions that elegantly bridge visionary ideas with impactful outcomes  
 🚀 Passionately advancing expertise in Data Structures & Algorithms, Full Stack Development, Machine Learning, and the ever-evolving realm of Data Science  
 🧠 Driven by Curiosity, Guided by Discipline, and Inspired by Innovation  
