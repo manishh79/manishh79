@@ -96,8 +96,7 @@
 ## 📌 Domains I’m Exploring
 
 <p align="center" style="font-size:1.1em; line-height:1.6em;">
-  <b>🤖 Advanced AI & Data Engineering</b> — Working with LLMs, Transformer models, generative pipelines, and dynamic visualization layers  
-  <br/>
+  <b>🤖 Advanced AI & Data Engineering</b> — Working with LLMs, Transformer models, generative pipelines, and dynamic visualization layers  <br/>
   <b>⚡ AI-Powered Web Experiences</b> — Seamless ML integration into full stack apps  
 </p>
 
@@ -124,8 +123,12 @@
 - 🤖 Developing cutting-edge **AI/ML** solutions for meaningful challenges  
   <img src="https://img.shields.io/badge/AI-FF6F61?style=flat&logo=artificial-intelligence&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=tensorflow&logoColor=white" height="18" />
 
-- 📊 Creating insightful data visualizations and dashboards with **SQL & Python**  
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="18" />
+- 📊 Creating insightful data visualizations and dashboards with **SQL, Python, Power BI & Tableau**  
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="18" /> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="18" /> 
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black" height="18" /> 
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="18" />
+
 
 ---
 
