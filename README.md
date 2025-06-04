@@ -98,7 +98,7 @@
 <p align="center" style="font-size:18px; line-height:1.6; max-width:600px;">
 
 <span>🤖 <b>Advanced AI & Data Engineering</b><br/>
-Working with LLMs, Transformer models, generative pipelines, and dynamic visualization layers</span><br/><br/>
+Working with LLMs, Transformer models, generative pipelines, and dynamic visualization layers</span><br/>
 
 <span>⚡ <b>AI-Powered Web Experiences</b><br/>
 Seamless ML integration into full stack apps</span>
